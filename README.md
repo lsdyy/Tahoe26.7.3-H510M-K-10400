@@ -1,0 +1,2 @@
+# Tahoe26.7.3-H510M-K-10400
+黑苹果 Intel Core i5-10400 + ASUS PRIME H510M-K的 MacOS 26.7.3 EFI 配置
